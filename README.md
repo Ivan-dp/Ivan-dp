@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on IT industry
 - 📫 How to reach me: <br>
         1. email - ivan-dp@bk.ru<br>
-        2. telegram - @buddhist108<br>
+        2. telegram - <a href="https://t.me/buddhist108">@buddhist108</a><br>
         3. facebook - https://www.facebook.com/profile.php?id=100010502406455
 
 <!---
