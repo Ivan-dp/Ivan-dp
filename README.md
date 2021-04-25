@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ivan-dp <div class="avatar" style="border-radius: 50%;"><img src="https://avatars.mds.yandex.net/get-zen_doc/3337090/pub_5ea6e33fac8caa106c37b873_5ea6e636451cef298cc4e71a/scale_1200" alt="Dobrynia" style="width: 150px; height: 150px;"></div>
+- 👋 Hi, I’m @Ivan-dp <img src="http://cinemaplex.ru/wp-content/uploads/2013/07/529_2.jpg" alt="Dobrynia">
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on IT industry
