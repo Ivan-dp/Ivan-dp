@@ -13,7 +13,7 @@ Ivan-dp/Ivan-dp is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-##My main works:<br>
+<h2>My main works:</h2><br>
         <a href="https://github.com/Ivan-dp/mentorSanya">(Repo)Изучение React под руководством ментора middle+ (по настоящее время)</a><br>
         <a href="https://ivan-dp.github.io/mentorSanya/">(Deploy)</a><br>
         <a href="https://github.com/Ivan-dp/2nd-stage">Изучение webpack, pug, scss, JQuery под руководством фирмы MetaLamp</a><br>
