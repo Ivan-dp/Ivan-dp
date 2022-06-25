@@ -14,12 +14,16 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h2>My main works:</h2><br>
-        <a href="https://github.com/Ivan-dp/mentorSanya">(Repo)Изучение React под руководством ментора middle+ (по настоящее время)</a><br>
+        <a href="https://github.com/Ivan-dp/mentorSanya">(Repo) Изучение React под руководством ментора middle+ (по настоящее время)</a><br>
         <a href="https://ivan-dp.github.io/mentorSanya/">(Deploy)</a><br>
-        <a href="https://github.com/Ivan-dp/2nd-stage">Изучение webpack, pug, scss, JQuery под руководством фирмы MetaLamp</a><br>
-        <a href="https://github.com/Ivan-dp/the_witcher_il">Сайт сериала Ведьмак под руководством GloAcademy</a><br>
+        <br>
+        <a href="https://github.com/Ivan-dp/2nd-stage">(Repo) Изучение webpack, pug, scss, JQuery под руководством фирмы MetaLamp</a><br>
+        <br>
+        <a href="https://github.com/Ivan-dp/the_witcher_il">(Repo) Сайт сериала Ведьмак под руководством GloAcademy</a><br>
         <a href="https://ivan-dp.github.io/the_witcher_il/">(Deploy)</a><br>
-        <a href="https://github.com/Ivan-dp/pikadu-il">Аналог страницы Пикабу под руководством GloAcademy</a><br>
+        <br>
+        <a href="https://github.com/Ivan-dp/pikadu-il">(Repo) Аналог страницы Пикабу под руководством GloAcademy</a><br>
         <a href="https://ivan-dp.github.io/pikadu-il/">(Deploy)</a><br>
-        <a href="https://github.com/Ivan-dp/mortal_kombat">Сайт фильма Смертельная битва под руководством GloAcademy</a><br>
+        <br>
+        <a href="https://github.com/Ivan-dp/mortal_kombat">(Repo) Сайт фильма Смертельная битва под руководством GloAcademy</a><br>
         <a href="https://ivan-dp.github.io/mortal_kombat/">(Deploy)</a>
